@@ -1,0 +1,7 @@
+C:\Users\SASHREEK\OneDrive\Desktop\.net\obj\Debug\net8.0\EntityApi.csproj.AssemblyReference.cache
+C:\Users\SASHREEK\OneDrive\Desktop\.net\obj\Debug\net8.0\EntityApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SASHREEK\OneDrive\Desktop\.net\obj\Debug\net8.0\EntityApi.AssemblyInfoInputs.cache
+C:\Users\SASHREEK\OneDrive\Desktop\.net\obj\Debug\net8.0\EntityApi.AssemblyInfo.cs
+C:\Users\SASHREEK\OneDrive\Desktop\.net\obj\Debug\net8.0\EntityApi.csproj.CoreCompileInputs.cache
+C:\Users\SASHREEK\OneDrive\Desktop\.net\obj\Debug\net8.0\EntityApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SASHREEK\OneDrive\Desktop\.net\obj\Debug\net8.0\EntityApi.MvcApplicationPartsAssemblyInfo.cache
